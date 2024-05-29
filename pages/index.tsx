@@ -17,7 +17,7 @@ export default function Home({ githubProfileData }: { githubProfileData: any }) 
       <SEO />
       <Navigation />
       <Greetings />
-      <Skills />
+      <Skills /> 
       <Proficiency />
       <Education />
       <Experience />
